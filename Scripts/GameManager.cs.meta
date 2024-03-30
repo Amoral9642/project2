@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1865dbd046a4c4243a4ef588fbc34f67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GoldenPlatform: {fileID: 4718812708513660609, guid: 030f318a378dc37468153141977a1cce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
